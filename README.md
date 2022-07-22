@@ -1,4 +1,4 @@
-# BatchXEMURedumpRepair:
+# BatchXEMURedumpRepair
 
 This batch script uses a port of DD for windows to fix all your Redump 
 ISO's to make them compatible with XEMU.
@@ -18,3 +18,7 @@ game since it was improperly dumped.
 
 Some games that are improperly dumped may still work with CXBX but will 
 not work with XEMU.
+
+# Legal stuff
+Its a batch file that includes a port of dd for windows use it how you 
+please but remember to only use it for legally owned games.
